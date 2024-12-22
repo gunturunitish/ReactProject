@@ -1,3 +1,6 @@
+import React from "react";
+import ReactDOM from "react-dom";
+
 // Creating the h1 element in the HTML.
 // {} is the place, which is used to give the attributes to the class like id="heading"
 const heading = React.createElement(
