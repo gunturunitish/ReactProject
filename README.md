@@ -26,22 +26,22 @@
 
     - Using the CDN links in the production ready app, because that will create the network call which is a bit expensive thing rather we can download the react from the npm and maintain it in local.
 
-# Parcel (https://parceljs.org/)
-    - It will create a dev build for us.
-    - It will also create the local server for us.
-    - HMR : Hot Module Replacement
-    - Parcel uses file watching algorithm, written in C++
-    - Caching - faster builds
-    - Image Optimization
-    - Minification
-    - Bundling
-        - npx parcel build entry_file and the build will be saved in the folder dist
-    - Compress
-    - Consistent hashing
-    - Code Splitting
-    - Differential Bundling (Responsible to run the application in older browsers.)
-    - Diagnosotics
-    - Error Handling
-    - Support HTTPS
-    - Tree Shaking - Remove unused code while building
-    - Different dev and production bundles
+    - Parcel (https://parceljs.org/)
+        - It will create a dev build for us.
+        - It will also create the local server for us.
+        - HMR : Hot Module Replacement
+        - Parcel uses file watching algorithm, written in C++
+        - Caching - faster builds
+        - Image Optimization
+        - Minification
+        - Bundling
+            - npx parcel build entry_file and the build will be saved in the folder dist
+        - Compress
+        - Consistent hashing
+        - Code Splitting
+        - Differential Bundling (Responsible to run the application in older browsers.)
+        - Diagnosotics
+        - Error Handling
+        - Support HTTPS
+        - Tree Shaking - Remove unused code while building
+        - Different dev and production bundles
