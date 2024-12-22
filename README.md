@@ -12,7 +12,7 @@ To install the dev dependencies, we use the following one:
 
 After installing the packages, we have the symbols near the package name,
     "^version" - After using "^", the version will be upgraded to the latest one automatically.
-    "'~'version" - After using "'~'" the version will not be upgraded to the latest one.
+    "~version" - After using "~" the version will not be upgraded to the latest one.
 
 After intializing the project, we will have the package.json and also package-lock.json will be created.
     package-lock.json will lock the version of the modules installed, for each and every version.
