@@ -26,7 +26,7 @@
 
     - Using the CDN links in the production ready app, because that will create the network call which is a bit expensive thing rather we can download the react from the npm and maintain it in local.
 
-    - Parcel (https://parceljs.org/)
+    # Parcel (https://parceljs.org/)
         - It will create a dev build for us.
         - It will also create the local server for us.
         - HMR : Hot Module Replacement
